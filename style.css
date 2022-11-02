@@ -1,0 +1,56 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 600;
+    margin: 0;
+}
+header{
+    background-color: red;
+    width:22cm ;
+    height: 1.5cm;
+    margin-left: 9cm;
+    margin: auto;
+}
+nav{
+    background-color: orange;
+    width:22cm ;
+    height: 1.5cm;
+    margin:auto
+}
+.section1{
+    background-color:rgb(85, 171, 85);
+    width: 22cm;
+    height:8cm ;
+    margin: auto;   
+}
+.section2{
+    background-color: rgb(85, 171, 85);
+    width: 22cm;
+    height:8cm ;
+    margin: auto;
+}
+footer{
+    background-color:rgb(6, 6, 85) ;
+    width: 22cm ;
+    height:1.5cm ;
+    margin: auto;
+}
+Aside{
+    background-color: yellow;
+    width: 37%;
+    height: 15.1cm;
+    padding: 16px;
+    float: right;   
+}
+.section1 > div {
+    background-color: rgb(29, 103, 199);
+    width: 12cm;
+    height: 2cm;
+    margin: 16px;
+}
+.section2 > div {
+    background-color: rgb(29, 103, 199);
+    width: 12cm;
+    height: 2cm;
+    margin: 14px;
+}
